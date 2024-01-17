@@ -2,7 +2,7 @@
 
 This repository contains a collection of computer vision projects, showcasing different applications using OpenCV in Python. Below are the projects included in this collection:
 - [MNIST Handwritten Digit Classification Projects](#mnist-handwritten-digit-classification-projects)
-- [Ball Detection Project](#ball-detection-project)
+- [Ball Detection Project](#🏀-ball-detection-project)
 - [Coin Detection Project](#coin-detection-project)
 - [Chainsaw Detection Project](#chainsaw-detection-project)
 
@@ -10,7 +10,7 @@ This repository contains a collection of computer vision projects, showcasing di
 
 This repository contains two separate implementations of a neural network for classifying handwritten digits from the MNIST dataset. The first implementation is an earlier attempt, while the second demonstrates a more advanced approach with refined techniques.
 
-## 🚀 First Attempt at MNIST Classification
+## First Attempt at MNIST Classification
 
 ### Overview 📖
 
@@ -44,7 +44,7 @@ Below is a result of the first attempt at MNIST classification:
 
 ---
 
-## 🌟 Second Attempt at MNIST Classification
+## Second Attempt at MNIST Classification
 
 ### Overview 📖
 
