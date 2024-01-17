@@ -2,9 +2,9 @@
 
 This repository contains a collection of computer vision projects, showcasing different applications using OpenCV in Python. Below are the projects included in this collection:
 - [MNIST Handwritten Digit Classification Projects](#mnist-handwritten-digit-classification-projects)
-- [Ball Detection Project](#🏀-ball-detection-project)
-- [Coin Detection Project](#coin-detection-project)
-- [Chainsaw Detection Project](#chainsaw-detection-project)
+- [Ball Detection Project](#-ball-detection-project)
+- [Coin Detection Project](#-coin-detection-project)
+- [Chainsaw Detection Project](#-chainsaw-detection-project)
 
 # MNIST Handwritten Digit Classification Projects
 
